@@ -100,10 +100,6 @@ Detailed implementation and usage examples can be found in the project notebooks
    - Development of subject-specific models
    - Integration of transfer learning approaches
 
-## References
-
-1. Project Repository: [ActivityEstimationBasedOnHeartRate](https://github.com/mayank2021264/ActivityEstimationBasedOnHeartRate)
-2. REISS, ATTILA, I. I., AND SCHMIDT, P. PPG-DaLiA. UCI Machine Learning Repository, 2019. DOI: https://doi.org/10.24432/C53890
 
 ## Contributors
 
