@@ -103,8 +103,8 @@ Detailed implementation and usage examples can be found in the project notebooks
 
 ## Contributors
 
-- Manshaa Kapoor (2021540)
-- Mayank Pandey (2021264)
-- Niharika Singh (2021545)
-- Ria Malhotra (2021412)
-- Vishal Singh (2021575)
+- Manshaa Kapoor (maansha21540@iiitd.ac.in)
+- Mayank Pandey (mayank21264@iiitd.ac.in)
+- Niharika Singh (niharika21545@iiitd.ac.in)
+- Ria Malhotra (ria21412@iiitd.ac.in)
+- Vishal Singh (vishal21575@iiitd.ac.in)
